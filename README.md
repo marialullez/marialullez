@@ -8,8 +8,8 @@
 ## Tecnologias que eu uso
 
 <div style="display: inline_block"><br/>
-  <img align= "center" alt="Csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img align= "center" alt="Xamarin" src= "https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" />
+  <img align= "center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img align= "center" alt="Flutter" src= "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </div><br/>
 
 Apaixonada por tecnologia.
